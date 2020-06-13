@@ -1,11 +1,5 @@
 # wikidata-pantomime-bot
 
-[![NPM Version](https://img.shields.io/npm/v/wikidata-pantomime-bot.svg)](https://www.npmjs.com/package/wikidata-pantomime-bot)
-[![node](https://img.shields.io/node/v/wikidata-pantomime-bot.svg)](https://www.npmjs.com/package/wikidata-pantomime-bot)
-[![Build Status](https://travis-ci.com/EdJoPaTo/wikidata-pantomime-bot.svg?branch=master)](https://travis-ci.com/EdJoPaTo/wikidata-pantomime-bot)
-[![Dependency Status](https://david-dm.org/EdJoPaTo/wikidata-pantomime-bot/status.svg)](https://david-dm.org/EdJoPaTo/wikidata-pantomime-bot)
-[![Dev Dependency Status](https://david-dm.org/EdJoPaTo/wikidata-pantomime-bot/dev-status.svg)](https://david-dm.org/EdJoPaTo/wikidata-pantomime-bot?type=dev)
-
 > This is the starting point I used in my workshop to work with NodeJS and Wikidata
 
 For more information about the event where the workshop took place see [Wikidata Wochenende](https://www.wikidata.org/wiki/Wikidata:Events/Wikidata_Wochenende_Ulm_2020)
